@@ -14,7 +14,6 @@ Linux/OSX install:
 curl -sL https://ibm.biz/idt-installer | bash
 ```
 For Windows, see: [https://github.com/IBM-Bluemix/ibm-cloud-developer-tools](https://github.com/IBM-Bluemix/ibm-cloud-developer-tools).
-
 1. Install N|Solid following either the [quickstart](https://github.com/nodesource/nsolid-kubernetes/blob/master/README.md/#a2) or [production install](https://github.com/nodesource/nsolid-kubernetes/blob/master/README.md/#a6) instructions. 
 
 ## Installing Applications
