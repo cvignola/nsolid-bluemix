@@ -5,21 +5,18 @@ This guide provides step-by-step instructions for deploying N|Solid on the IBM C
 ## Setup
 
 The essential steps to prepare and setup N|Solid on the IBM Cloud are:
-<ol>
-<li>
-Register and create a Lite Kubernetes cluster using the 
+
+1. Register and create a Lite Kubernetes cluster using the 
 [IBM Cloud Container Service](https://www.ibm.com/cloud-computing/bluemix/containers).
-</li>
-<li>
-Install IBM Cloud Tools 
+
+1. Install IBM Cloud Tools 
 Linux/OSX install: 
 ```bash
 curl -sL https://ibm.biz/idt-installer | bash
 ```
 For Windows, see: [https://github.com/IBM-Bluemix/ibm-cloud-developer-tools](https://github.com/IBM-Bluemix/ibm-cloud-developer-tools).
-</li>
-<li>
-Install N|Solid following either the [quickstart](https://github.com/nodesource/nsolid-kubernetes/blob/master/README.md/#a2) or [production install](https://github.com/nodesource/nsolid-kubernetes/blob/master/README.md/#a6) instructions. 
+
+1. Install N|Solid following either the [quickstart](https://github.com/nodesource/nsolid-kubernetes/blob/master/README.md/#a2) or [production install](https://github.com/nodesource/nsolid-kubernetes/blob/master/README.md/#a6) instructions. 
 </li>
 </eol>
 
