@@ -10,7 +10,7 @@ The essential steps to prepare and setup N|Solid on the IBM Cloud are:
 [IBM Cloud Container Service](https://www.ibm.com/cloud-computing/bluemix/containers).
 
 1. Install IBM Cloud Tools 
-Linux/OSX install: 
+  Linux/OSX install: 
   ```bash
   curl -sL https://ibm.biz/idt-installer | bash
   ```
