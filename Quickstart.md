@@ -11,6 +11,11 @@ The essential steps to prepare and setup N|Solid on the IBM Cloud are:
 
 1. Install IBM Cloud Tools 
 
+Linux/OSX install: 
+```bash
+curl -sL https://ibm.biz/idt-installer | bash
+```
+
 1. Install N|Solid following either the [quickstart](https://github.com/nodesource/nsolid-kubernetes/blob/master/README.md/#a2) or [production install](https://github.com/nodesource/nsolid-kubernetes/blob/master/README.md/#a6) instructions. 
 
 ## Installing Applications
