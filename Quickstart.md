@@ -11,7 +11,7 @@ The essential steps to prepare and setup N|Solid on the IBM Cloud are:
 
 1. Install IBM Cloud Tools 
     
-    Linux/OSX install:
+    Linux/OSX:
     ```bash
     curl -sL https://ibm.biz/idt-installer | bash
     ```
