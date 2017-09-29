@@ -46,40 +46,10 @@ For further information, read all about the [IBM Cloud Container Service](https:
 
 ## Installing N|Solid into a Kubernetes Cluster
 
-Now, you've got Bluemix entirely primed and ready to deploy N|Solid with Kuberenetes. For the next steps to deploy N|Solid to Kubernetes on the IBM Cloud, you can take a look at the [production installation instructions](https://github.com/nodesource/nsolid-kubernetes#a6) - be sure to set up [persistent storage on Bluemix](https://github.com/cvignola/nsolid-kubernetes#a30), as well.
+Now, you've got Bluemix entirely primed and ready to deploy N|Solid to Kuberenetes. For the next steps to deploy N|Solid to Kubernetes on the IBM Cloud, you can take a look at the [production installation instructions](https://github.com/nodesource/nsolid-kubernetes#a6).
 
 For even more information about Node.js, Kubernetes, and the associated tools,you can check out our webinar on [Getting Started with Node.js, Docker, and Kubernetes](http://pages.nodesource.com/getting-started-with-node-js-docker-kubernetes-wb.html), you can learn more about Kubernetes and its place as a part of the Node.js DevOps Stack for Digital Transformation, and you can learn some easy tricks for [improving your Node.js Docker images](https://nodesource.com/blog/8-protips-to-start-killing-it-when-dockerizing-node-js) to make deploying with Kubernetes even easier.
 
 ## Wrapping Up
 
 Deploying Node.js applications to the cloud is made secure, reliable and connected using NodeSource. We're glad you're interested in deploying N|Solid to Kubernetes on the IBM Cloud,. In addition to N|Solid, you can take the risk out of your reliance on third-party Node.js modules when working locally,testing your applications in staging, deploying production to Bluemix, and more with [NodeSource Certified Modules](https://nodesource.com/products/certified-modules).
-
-----
-
-This guide provides step-by-step instructions for deploying N|Solid on the IBM Cloud. N|Solid and N|Solid applications run on the IBM Cloud as Docker containers under Kubernetes. Additionall, you can refer to the N|Solid Kubernetes quick start and production install information here: [https://github.com/nodesource/nsolid-kubernetes](https://github.com/nodesource/nsolid-kubernetes).
-
-## Setup
-
-The essential steps to prepare and setup N|Solid on the IBM Cloud are:
-
-1. Register and create a Kubernetes cluster using the 
-[IBM Cloud Container Service](https://www.ibm.com/cloud-computing/bluemix/containers).
-
-1. Install IBM Cloud Tools 
-    
-    Linux/OSX:
-    ```bash
-    curl -sL https://ibm.biz/idt-installer | bash
-    ```
-    For Windows, see: 
-    [https://github.com/IBM-Bluemix/ibm-cloud-developer-tools](https://github.com/IBM-Bluemix/ibm-cloud-developer-tools).
-
-1. Install N|Solid following either the [quickstart](https://github.com/nodesource/nsolid-kubernetes/blob/master/README.md/#a2) or [production install](https://github.com/nodesource/nsolid-kubernetes/blob/master/README.md/#a6) instructions. 
-
-## Installing Applications
-
-- [Install a sample app for N|Solid with Kubernetes](https://github.com/nodesource/nsolid-kubernetes/blob/master/README.md/#a5).
-
-- [Configure Apps for N|Solid with Kubernetes](https://github.com/nodesource/nsolid-kubernetes/blob/master/README.md/#a16).
-
-- [Use IBM Cloud Developer Tools to create and deploy apps](https://developer.ibm.com/node/cloud/). This is the *fastest* way to create and deploy apps on the IBM Cloud.
