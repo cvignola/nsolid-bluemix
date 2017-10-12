@@ -2,7 +2,7 @@
 
 IBM recently announced the availability of Kubernetes for the Bluemix Container Service on the IBM Cloud, adding to an impressive list of services, including Watson Cognitive, BlockChain, Financial, Weather, Cloud Foundry, and many more. 
 
-The Bluemix Container Service provides many advantages for managing a containerized environment, including service discovery, load balancing and abstracting away hardware are just a few from a very long list of benefits.
+The Bluemix Container Service provides many advantages for managing a containerized environment, including service discovery, load balancing, and abstracting away hardware are just a few from a very long list of benefits.
 
 We are going to look at how to setup a Kubernetes cluster using the Bluemix Container Service, and how to deploy N|Solid to that environment. 
 
@@ -48,8 +48,8 @@ For further information, read all about the [IBM Cloud Container Service](https:
 
 Now, you've got Bluemix entirely primed and ready to deploy N|Solid to Kuberenetes. For the next steps to deploy N|Solid to Kubernetes on the IBM Cloud, you can take a look at the [production installation instructions](https://github.com/nodesource/nsolid-kubernetes#a6).
 
-For even more information about Node.js, Kubernetes, and the associated tools,you can check out our webinar on [Getting Started with Node.js, Docker, and Kubernetes](http://pages.nodesource.com/getting-started-with-node-js-docker-kubernetes-wb.html), you can learn more about Kubernetes and its place as a part of the Node.js DevOps Stack for Digital Transformation, and you can learn some easy tricks for [improving your Node.js Docker images](https://nodesource.com/blog/8-protips-to-start-killing-it-when-dockerizing-node-js) to make deploying with Kubernetes even easier.
+For even more information about Node.js, Kubernetes, and the associated tools, you can check out our webinar on [Getting Started with Node.js, Docker, and Kubernetes](http://pages.nodesource.com/getting-started-with-node-js-docker-kubernetes-wb.html), you can learn more about Kubernetes and its place as a part of the Node.js DevOps Stack for Digital Transformation, and you can learn some easy tricks for [improving your Node.js Docker images](https://nodesource.com/blog/8-protips-to-start-killing-it-when-dockerizing-node-js) to make deploying with Kubernetes even easier.
 
 ## Wrapping Up
 
-Deploying Node.js applications to the cloud is made secure, reliable and connected using NodeSource. We're glad you're interested in deploying N|Solid to Kubernetes on the IBM Cloud,. In addition to N|Solid, you can take the risk out of your reliance on third-party Node.js modules when working locally,testing your applications in staging, deploying production to Bluemix, and more with [NodeSource Certified Modules](https://nodesource.com/products/certified-modules).
+Deploying Node.js applications to the cloud is made secure and reliable using NodeSource. We're glad you're interested in deploying N|Solid to Kubernetes on the IBM Cloud. In addition to N|Solid, you can take the risk out of your reliance on third-party Node.js modules when working locally, testing your applications in staging, deploying production to Bluemix, and more with [NodeSource Certified Modules](https://nodesource.com/products/certified-modules).
